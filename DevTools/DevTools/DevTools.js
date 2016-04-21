@@ -8,7 +8,7 @@ function DoStuff() {
     console.error('be careful ');
     console.debug('Debuging');
     console.info('please note');
-
+   
 
 
     console.group('steps');
